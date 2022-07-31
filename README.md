@@ -8,11 +8,12 @@ class RicardGardella:
         self.role = ["Software Engineer", "Data Engineer"]
         self.language_spoken = ["es_ES","ca_ES" ,"en_US"]
         self.programming_language = ["Python","Java","Scala"]
+        self.teamplayer = True
         self.always_learning = True
 
     def say_hi(self):
-        print("Hello there! Thank you for visiting my GitHub profile. Don't hesitate to contact me :)")
-
+        print("Hello there! Thank you for visiting my GitHub profile. Don't hesitate to contact me!")
+    
 
 me = RicardGardella()
 me.say_hi()
