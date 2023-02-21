@@ -1,5 +1,5 @@
 ```python
-class RicardGardella:
+class RicardGardella(HumanBeing):
 
     def __init__(self):
         self.name = "Ricard Gardella Garcia"
@@ -8,6 +8,7 @@ class RicardGardella:
         self.programming_language = ["Python","Java","Scala"]
         self.teamplayer = True
         self.always_learning = True
+        self.description = "Software Engineer and Data Engineer. Blockchain enthusiast. Loves working in start-ups and web3 companies."
 
     def say_hi(self):
         print("Hello there! Thank you for visiting my GitHub profile. Don't hesitate to contact me!")
