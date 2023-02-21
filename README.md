@@ -34,7 +34,6 @@ me.say_hi()
 and more...
 
 ## Find me at 👇🏻 
-[![](https://img.shields.io/badge/Twitter-RicardGardella-blue?style=for-the-badge&logo=Twitter)](https://twitter.com/RicardGardella)
 [![](https://img.shields.io/badge/LinkedIn-RicardGardella-informational?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/ricard-gardella-garcia/)
 [![](https://img.shields.io/badge/Email-ricardgardellagarcia@gmail.com-green?style=for-the-badge&logo=Gmail)](mailto:ricardgardellagarcia@gmail.com)
 
