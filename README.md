@@ -1,14 +1,19 @@
 ```python
 class RicardGardella(HumanBeing):
-
+    
     def __init__(self):
         self.name = "Ricard Gardella Garcia"
         self.role = ["Software Engineer", "Data Engineer"]
-        self.language_spoken = ["es_ES","ca_ES" ,"en_US"]
-        self.programming_language = ["Python","Java","Scala"]
+        self.languages = ["es_ES","ca_ES" ,"en_US"]
+        self.programming_language = ["Python","Java","Scala","Solidity"]
         self.teamplayer = True
         self.always_learning = True
-        self.description = "Software Engineer and Data Engineer. Blockchain enthusiast. Loves working in start-ups and web3 companies."
+        self.description = """
+            -Software Engineer and Data Engineer. 
+            -Blockchain enthusiast. 
+            -Loves working in start-ups and web3 companies.
+            -You can find him coding or at the gym.
+        """
 
     def say_hi(self):
         print("Hello there! Thank you for visiting my GitHub profile. Don't hesitate to contact me!")
