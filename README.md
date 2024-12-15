@@ -3,21 +3,21 @@ class RicardGardella(HumanBeing):
     
     def __init__(self):
         self.name = "Ricard Gardella Garcia"
-        self.role = ["Software Engineer", "Data Engineer"]
+        self.role = ["Software Engineer", "Data Engineer", "Tech Lead"]
         self.languages = ["es_ES","ca_ES" ,"en_US"]
-        self.programming_language = ["Python","Java","Scala","Solidity"]
+        self.programming_language = ["Python","Java","Scala","Solidity", "GO"]
         self.teamplayer = True
         self.always_learning = True
+        self.email = "ricard.gardella.garcia@gmail.com"
         self.description = """
-            -Software Engineer and Data Engineer. 
-            -Blockchain enthusiast. 
-            -Loves working in start-ups and web3 companies.
+            -Software Engineer, Data Engineer and Tech Lead
+            -Blockchain and Cybersecurity enthusiast. 
+            -Loves working in start-ups and web3/cyber companies.
             -You can find him coding or at the gym.
         """
 
     def say_hi(self):
         print("Hello there! Thank you for visiting my GitHub profile. Don't hesitate to contact me!")
-    
 
 me = RicardGardella()
 me.say_hi()
