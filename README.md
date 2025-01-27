@@ -10,7 +10,7 @@ class RicardGardella(HumanBeing):
         self.always_learning = True
         self.email = "ricard.gardella.garcia@gmail.com"
         self.description = """
-            -Software Engineer, Data Engineer and Tech Lead
+            -Software Engineer, AI Data Engineer and Tech Lead
             -Blockchain and Cybersecurity enthusiast. 
             -Loves working in start-ups and web3/cyber companies.
             -You can find him coding or at the gym.
