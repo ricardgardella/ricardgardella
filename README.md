@@ -23,8 +23,6 @@
 
 I've shipped data platforms processing **billions of records/month**, multi-agent AI co-pilots for security analysts, and recommendation engines reaching **hundreds of thousands of users**.
 
-Currently full-time on AI at Checkatrade, with freelance collaborations on AI + cybersecurity work for select companies.
-
 ### `$ ps aux | grep now`
 
 ```bash
