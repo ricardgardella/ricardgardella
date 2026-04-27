@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1800&color=22D3EE&center=true&vCenter=true&width=720&lines=%3E+Senior+AI+Engineer+%26+Cybersecurity+Specialist;%3E+I+ship+AI+in+production.;%3E+And+find+ways+to+break+it+on+weekends.;%3E+Bug+bounty+hunter+%2F+Hack+The+Box+climber.;%3E+Barcelona%2C+Spain+%E2%80%94+working+globally.)](https://ricardgardella.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1800&color=22D3EE&center=true&vCenter=true&width=720&lines=%3E+Senior+AI+Engineer+%26+Cybersecurity+Specialist;%3E+I+ship+AI+in+production.;%3E+And+find+ways+to+break+it+on+weekends.;%3E+Bug+bounty+hunter.;%3E+Barcelona%2C+Spain+%E2%80%94+working+globally.)](https://ricardgardella.com)
 
 [![Website](https://img.shields.io/badge/-ricardgardella.com-22D3EE?style=for-the-badge&logo=safari&logoColor=0c0a1a)](https://ricardgardella.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricard-gardella-garcia/)
