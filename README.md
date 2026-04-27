@@ -29,7 +29,6 @@ Currently full-time on AI at Checkatrade, with freelance collaborations on AI + 
 
 ```bash
 $ checkatrade   --role "Senior AI Engineer"        --status full-time
-$ zynap         --role "AI & Security Collaborator" --status freelance
 $ easm-platform --status "private build"           --use bug-bounties
 $ hackthebox    --rank climbing                    --target web-exploitation
 ```
