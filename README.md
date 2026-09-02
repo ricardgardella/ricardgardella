@@ -57,6 +57,13 @@ drwxr-xr-x  cloud/  AWS  GCP  Terraform  Docker  Kubernetes
 [2020] Fraunhofer Institute Prize                  ·  HackCorona winner
 ```
 
+### `$ cat HallOfFame.txt`
+
+```
+- NASA x2 · https://bugcrowd.com/h/r1k4ch4n
+- US. Department of Commerce x1 · https://bugcrowd.com/h/r1k4ch4n
+```
+
 ### `$ uptime --offline`
 
 ```bash
